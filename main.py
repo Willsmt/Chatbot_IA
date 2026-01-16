@@ -13,6 +13,7 @@
 
 #LANGCHAIN - BIBLIOTECA PARA TRABALHAR COM IA 
 
+#testando o gitignore
 
 import streamlit as st
 from openai import OpenAI
