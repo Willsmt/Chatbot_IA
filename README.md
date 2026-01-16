@@ -54,6 +54,15 @@ Execute o comando abaixo no terminal:
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## 🌐 Teste Online
+Você também pode testar o chatbot diretamente pelo deploy no Streamlit:  
+👉 [Acesse aqui](https://chatbotia-rt4yngu88gi3iwocby8e5c.streamlit.app/)
+
+---
+
 ---
 
 ## 📂 Estrutura do projeto
