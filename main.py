@@ -18,7 +18,7 @@
 import streamlit as st
 from openai import OpenAI
 
-modelo_ia = OpenAI(api_key="")  #coloque sua chave da openai aqui 
+modelo_ia = OpenAI(api_key = st.secrets["api_key"])  #coloque sua chave da openai aqui 
 
 st.write("# Chatbot com IA PsychologistRaq") #markdown -  formatacao de texto
 
